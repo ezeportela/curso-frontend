@@ -1,0 +1,17 @@
+{
+  "name": "redsocial",
+  "version": "1.0.0",
+  "description": "Template para el Curso Javascript Frontend del ISSD",
+  "main": "index.html",
+  "scripts": {
+    "start": "browser-sync start -s -f . --no-notify --host localhost --port 9000"
+  },
+  "author": "Ezequiel Portela <eportelab@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {}
+}
